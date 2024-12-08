@@ -1,4 +1,8 @@
 ## Hi there 👋
+[![Some stats](https://github-readme-stats.vercel.app/api?username=Cichyy22)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cichyy22)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Cichyy22/Cichyy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
