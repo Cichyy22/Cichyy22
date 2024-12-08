@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Jakub and I'm a Computer Science student at University of Warmia-Masuria.
+I'm currently working as Junior Laravel Developer.
+
 [![Some stats](https://github-readme-stats.vercel.app/api?username=Cichyy22)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cichyy22)](https://github.com/anuraghazra/github-readme-stats)
