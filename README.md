@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Jakub and I'm a Computer Science student at University of Warmia-Masuria.
-I'm currently working as Junior Laravel Developer.
+My name is Jakub, and I graduated with a Master's degree in Computer Science from the University of Warmia and Mazury. 
+I worked as a Junior Laravel Developer.
 
 [![Some stats](https://github-readme-stats.vercel.app/api?username=Cichyy22)](https://github.com/anuraghazra/github-readme-stats)
 
