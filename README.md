@@ -2,9 +2,6 @@
 My name is Jakub, and I graduated with a Master's degree in Computer Science from the University of Warmia and Mazury. 
 I worked as a Junior Laravel Developer.
 
-[![Some stats](https://github-readme-stats.vercel.app/api?username=Cichyy22)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cichyy22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
